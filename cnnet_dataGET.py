@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 电信物联卡余额流量等信息获取
 import requests
 import datetime  # 获取日期
 import json
