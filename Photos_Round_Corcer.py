@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #将目录下的'jpg','png''jpeg'图片批量圆角化
 
 from PIL import Image, ImageDraw
