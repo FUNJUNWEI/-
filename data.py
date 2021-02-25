@@ -5,13 +5,12 @@ import json
 import webbrowser
 
 # 定义请求的url
-url = 'http://xff.iot688.com/Api/flowsearch?cardno=8986112025003096870'
+url = 'http://xff.iot688.com/Api/flowsearch?cardno=8986112025003******'
 
 # 定义求请求头信息
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36',
-    'Cookie': 'wxiccid=8986112025003096870; cardnosearch=8986112025003096870; wxname=; cardno=8986112025003096870; wxdeptstr=1.; balance=18; stopvalue=0; cardnos=8986112025003096870; telphone=8986112025003096870; iccid=8986112025003096870; user_id=1; background_path=; cardno11=8986112025003096870; fwjl=3d9cP03vyhUM60H7fRhrw2%2BlDvvFODK21CQQFe6moW2eJQ8tWLU'
-}
+    'Cookie': '******************cookie**********************************'}
 
 
 # 取时间 格式为202001/202112
