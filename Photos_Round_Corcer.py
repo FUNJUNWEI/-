@@ -42,7 +42,7 @@ def circle_corner(img):
 
 path = os.getcwd()
 listdir = os.listdir(path)
-image_extension=('jpg','png''jpeg')
+image_extension=('jpg','png','jpeg')
 for file in listdir:
     Filename_Extension = file.split('.')[-1]
     Filename = file.split('.')[0]
